@@ -1,0 +1,17 @@
+Vendor,SKU,Daily_Capacity,Lead_Time_Days,MOQ
+VendorA,SKU001,10,7,70
+VendorA,SKU002,12,2,24
+VendorA,SKU003,9,3,27
+VendorA,SKU004,13,7,91
+VendorA,SKU005,8,5,40
+VendorB,SKU001,11,7,77
+VendorB,SKU002,13,3,39
+VendorB,SKU003,10,7,70
+VendorB,SKU004,14,2,28
+VendorB,SKU005,9,4,36
+VendorC,SKU001,12,5,60
+VendorC,SKU002,14,3,42
+VendorC,SKU003,11,5,55
+VendorC,SKU004,15,2,30
+VendorC,SKU005,10,7,70
+
